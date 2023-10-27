@@ -1,2 +1,5 @@
 nueva linea
 rama 1.2
+nueva linea desde rama2
+
+rama 2.1
