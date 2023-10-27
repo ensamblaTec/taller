@@ -7,4 +7,4 @@
 * lista 1
 * lista 2
 
-[X] checkbox
+- [X] checkbox
